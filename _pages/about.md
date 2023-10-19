@@ -12,6 +12,7 @@ I am a PhD student studying Human Development. My research focuses on the transf
 
 Additionally, I am a development coach, guiding individuals on transformative journeys. Sometimes, our sessions take place outdoors, in the heart of nature.
 
+
 **Teaching Philosophy**
 
 My teaching philosophy revolves around the principle that education and learning is a lifelong journey of growth and development. I believe that adult learners possess a wealth of experiences, skills, and knowledge that can be harnessed and further cultivated. My role is to be a facilitator, guiding them on their path to success.

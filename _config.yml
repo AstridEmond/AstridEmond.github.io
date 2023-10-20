@@ -11,9 +11,9 @@ title                    : "Astrid Eberhardt Emond"
 title_separator          : "-"
 name                     : &name "Astrid Eberhardt Emond"
 description              : &description "🌻 Exploring the Nature-Based Experiences of Women and Their Impact on Personal Transformation and Well-Being 🌿"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://AstridEmond.github.io"
+url                      : "https://AstridEmond.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AstridEmond/academicpages.github.io"
+repository               : "AstridEmond.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
